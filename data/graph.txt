@@ -1,0 +1,14 @@
+LINKS
+A B C F
+B A C D
+C A B D F
+D B C E
+E D F
+F A C E
+WEIGHTS
+A 7 9 14
+B 7 10 15
+C 9 10 11 2
+D 15 11 6
+E 6 9
+F 14 2 9
